@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\bin\Debug\net5.0\Find_Number.exe
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\bin\Debug\net5.0\Find_Number.deps.json
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\bin\Debug\net5.0\Find_Number.runtimeconfig.json
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\bin\Debug\net5.0\Find_Number.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\bin\Debug\net5.0\Find_Number.dll
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\bin\Debug\net5.0\Find_Number.pdb
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\Find_Number.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\Find_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\Find_Number.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\Find_Number.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\Find_Number.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\Find_Number.dll
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\refint\Find_Number.dll
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\Find_Number.pdb
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\Find_Number.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\Find_Number\Find_Number\obj\Debug\net5.0\ref\Find_Number.dll

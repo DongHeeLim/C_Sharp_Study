@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2YVkhsAlOvaXlpA6VL4Cb/SRh5FHkK492oV/cT43P6Q7XIjJfAYBhWm4OFnesA81zk9qKi2/n+PDCTQDERse6g==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\C_Sharp_Study\\220412_Winform\\220412_Winform\\220412_Winform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512"
+  ],
+  "logs": []
+}

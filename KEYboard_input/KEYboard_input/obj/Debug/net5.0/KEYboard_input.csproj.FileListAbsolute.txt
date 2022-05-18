@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\bin\Debug\net5.0\KEYboard_input.exe
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\bin\Debug\net5.0\KEYboard_input.deps.json
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\bin\Debug\net5.0\KEYboard_input.runtimeconfig.json
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\bin\Debug\net5.0\KEYboard_input.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\bin\Debug\net5.0\KEYboard_input.dll
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\bin\Debug\net5.0\KEYboard_input.pdb
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\KEYboard_input.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\KEYboard_input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\KEYboard_input.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\KEYboard_input.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\KEYboard_input.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\KEYboard_input.dll
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\refint\KEYboard_input.dll
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\KEYboard_input.pdb
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\KEYboard_input.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\KEYboard_input\KEYboard_input\obj\Debug\net5.0\ref\KEYboard_input.dll

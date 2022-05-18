@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\220329_01\220329_01\bin\Debug\net5.0\220329_01.exe
+D:\Github\C_Sharp_Study\220329_01\220329_01\bin\Debug\net5.0\220329_01.deps.json
+D:\Github\C_Sharp_Study\220329_01\220329_01\bin\Debug\net5.0\220329_01.runtimeconfig.json
+D:\Github\C_Sharp_Study\220329_01\220329_01\bin\Debug\net5.0\220329_01.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\220329_01\220329_01\bin\Debug\net5.0\220329_01.dll
+D:\Github\C_Sharp_Study\220329_01\220329_01\bin\Debug\net5.0\220329_01.pdb
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\220329_01.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\220329_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\220329_01.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\220329_01.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\220329_01.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\220329_01.dll
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\refint\220329_01.dll
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\220329_01.pdb
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\220329_01.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\220329_01\220329_01\obj\Debug\net5.0\ref\220329_01.dll

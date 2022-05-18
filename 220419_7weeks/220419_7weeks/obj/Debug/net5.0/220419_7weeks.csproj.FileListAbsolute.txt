@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\bin\Debug\net5.0\220419_7weeks.exe
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\bin\Debug\net5.0\220419_7weeks.deps.json
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\bin\Debug\net5.0\220419_7weeks.runtimeconfig.json
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\bin\Debug\net5.0\220419_7weeks.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\bin\Debug\net5.0\220419_7weeks.dll
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\bin\Debug\net5.0\220419_7weeks.pdb
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\220419_7weeks.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\220419_7weeks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\220419_7weeks.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\220419_7weeks.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\220419_7weeks.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\220419_7weeks.dll
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\refint\220419_7weeks.dll
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\220419_7weeks.pdb
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\220419_7weeks.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\220419_7weeks\220419_7weeks\obj\Debug\net5.0\ref\220419_7weeks.dll
