@@ -45,6 +45,8 @@ namespace _220412_Winform
             public bool LoginFlag { get { return loginFlag; } set { loginFlag = value; } }
         }
 
+    
+
         // Construct
         public FormMainmenu()
         {
@@ -66,6 +68,8 @@ namespace _220412_Winform
             {
                 
             }
+
+        
 
         }
 

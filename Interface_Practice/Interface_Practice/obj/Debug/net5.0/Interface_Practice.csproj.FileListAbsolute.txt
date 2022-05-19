@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\bin\Debug\net5.0\Interface_Practice.exe
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\bin\Debug\net5.0\Interface_Practice.deps.json
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\bin\Debug\net5.0\Interface_Practice.runtimeconfig.json
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\bin\Debug\net5.0\Interface_Practice.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\bin\Debug\net5.0\Interface_Practice.dll
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\bin\Debug\net5.0\Interface_Practice.pdb
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\Interface_Practice.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\Interface_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\Interface_Practice.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\Interface_Practice.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\Interface_Practice.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\Interface_Practice.dll
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\refint\Interface_Practice.dll
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\Interface_Practice.pdb
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\Interface_Practice.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\Interface_Practice\Interface_Practice\obj\Debug\net5.0\ref\Interface_Practice.dll

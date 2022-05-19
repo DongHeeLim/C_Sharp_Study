@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Winform_Lable_LinkLable/1.0.0": {
+        "runtime": {
+          "Winform_Lable_LinkLable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Winform_Lable_LinkLable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
