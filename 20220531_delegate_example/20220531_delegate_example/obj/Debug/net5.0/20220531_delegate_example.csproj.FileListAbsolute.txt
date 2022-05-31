@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\bin\Debug\net5.0\20220531_delegate_example.exe
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\bin\Debug\net5.0\20220531_delegate_example.deps.json
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\bin\Debug\net5.0\20220531_delegate_example.runtimeconfig.json
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\bin\Debug\net5.0\20220531_delegate_example.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\bin\Debug\net5.0\20220531_delegate_example.dll
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\bin\Debug\net5.0\20220531_delegate_example.pdb
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\20220531_delegate_example.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\20220531_delegate_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\20220531_delegate_example.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\20220531_delegate_example.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\20220531_delegate_example.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\20220531_delegate_example.dll
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\refint\20220531_delegate_example.dll
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\20220531_delegate_example.pdb
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\20220531_delegate_example.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\20220531_delegate_example\20220531_delegate_example\obj\Debug\net5.0\ref\20220531_delegate_example.dll

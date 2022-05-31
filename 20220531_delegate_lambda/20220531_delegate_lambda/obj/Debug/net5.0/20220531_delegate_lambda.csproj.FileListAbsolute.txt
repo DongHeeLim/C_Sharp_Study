@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\bin\Debug\net5.0\20220531_delegate_lambda.exe
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\bin\Debug\net5.0\20220531_delegate_lambda.deps.json
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\bin\Debug\net5.0\20220531_delegate_lambda.runtimeconfig.json
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\bin\Debug\net5.0\20220531_delegate_lambda.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\bin\Debug\net5.0\20220531_delegate_lambda.dll
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\bin\Debug\net5.0\20220531_delegate_lambda.pdb
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\20220531_delegate_lambda.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\20220531_delegate_lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\20220531_delegate_lambda.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\20220531_delegate_lambda.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\20220531_delegate_lambda.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\20220531_delegate_lambda.dll
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\refint\20220531_delegate_lambda.dll
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\20220531_delegate_lambda.pdb
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\20220531_delegate_lambda.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\20220531_delegate_lambda\20220531_delegate_lambda\obj\Debug\net5.0\ref\20220531_delegate_lambda.dll
