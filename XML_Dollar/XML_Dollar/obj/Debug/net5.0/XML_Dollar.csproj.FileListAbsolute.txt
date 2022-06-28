@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\bin\Debug\net5.0\XML_Dollar.exe
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\bin\Debug\net5.0\XML_Dollar.deps.json
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\bin\Debug\net5.0\XML_Dollar.runtimeconfig.json
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\bin\Debug\net5.0\XML_Dollar.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\bin\Debug\net5.0\XML_Dollar.dll
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\bin\Debug\net5.0\XML_Dollar.pdb
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\XML_Dollar.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\XML_Dollar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\XML_Dollar.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\XML_Dollar.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\XML_Dollar.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\XML_Dollar.dll
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\refint\XML_Dollar.dll
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\XML_Dollar.pdb
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\XML_Dollar.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\XML_Dollar\XML_Dollar\obj\Debug\net5.0\ref\XML_Dollar.dll

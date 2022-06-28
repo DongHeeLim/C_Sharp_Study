@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\bin\Debug\net5.0\220607_XML.exe
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\bin\Debug\net5.0\220607_XML.deps.json
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\bin\Debug\net5.0\220607_XML.runtimeconfig.json
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\bin\Debug\net5.0\220607_XML.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\bin\Debug\net5.0\220607_XML.dll
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\bin\Debug\net5.0\220607_XML.pdb
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\220607_XML.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\220607_XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\220607_XML.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\220607_XML.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\220607_XML.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\220607_XML.dll
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\refint\220607_XML.dll
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\220607_XML.pdb
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\220607_XML.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\220607_XML\220607_XML\obj\Debug\net5.0\ref\220607_XML.dll

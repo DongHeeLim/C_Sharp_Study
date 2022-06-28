@@ -1,0 +1,16 @@
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\bin\Debug\net5.0\220607_Linq.exe
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\bin\Debug\net5.0\220607_Linq.deps.json
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\bin\Debug\net5.0\220607_Linq.runtimeconfig.json
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\bin\Debug\net5.0\220607_Linq.runtimeconfig.dev.json
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\bin\Debug\net5.0\220607_Linq.dll
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\bin\Debug\net5.0\220607_Linq.pdb
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\220607_Linq.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\220607_Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\220607_Linq.AssemblyInfoInputs.cache
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\220607_Linq.AssemblyInfo.cs
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\220607_Linq.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\220607_Linq.dll
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\refint\220607_Linq.dll
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\220607_Linq.pdb
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\220607_Linq.genruntimeconfig.cache
+D:\Github\C_Sharp_Study\220607_Linq\220607_Linq\obj\Debug\net5.0\ref\220607_Linq.dll
