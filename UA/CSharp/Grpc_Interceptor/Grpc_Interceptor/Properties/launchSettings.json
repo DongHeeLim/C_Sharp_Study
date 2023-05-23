@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Grpc_Interceptor": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5002;https://localhost:7179",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

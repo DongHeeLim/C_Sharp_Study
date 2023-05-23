@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tr86+3/46KzCDhhCdFXTEIAb8gwnBSXxEduoe8f8Gjk041wZDWTT7uxsTveVkpsyVr2O+SmK9t8zk5vtIow68Q==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\WinForm_MQTT_Adafruit\\WinForm_MQTT_Adafruit\\WinForm_MQTT_Adafruit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UA\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

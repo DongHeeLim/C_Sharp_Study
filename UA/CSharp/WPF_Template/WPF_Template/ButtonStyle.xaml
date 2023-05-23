@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="{x:Type Control}" x:Key="StaticStyle">
+        <Setter Property="Background" Value="Aqua"/>
+    </Style>
+    <Style TargetType="{x:Type Button}" BasedOn="{StaticResource StaticStyle}"></Style>
+
+    <!--<Style TargetType="{x:Type Button}" x:Key="baseBtn">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate>
+                    <Border x:Name="Border" 
+                            CornerRadius="5"
+                            BorderThickness="1"
+                            BorderBrush="Red"
+                            Background="{TemplateBinding Background}">
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>-->
+</ResourceDictionary>

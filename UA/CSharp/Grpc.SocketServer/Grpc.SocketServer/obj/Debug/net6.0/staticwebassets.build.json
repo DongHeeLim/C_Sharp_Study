@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "35MqyBAj/Hh4sw1JDDPwsauT+udHkjKFiO0oZED64hM=",
+  "Source": "Grpc.SocketServer",
+  "BasePath": "_content/Grpc.SocketServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,9 @@
+C:\Users\UA\AppData\Local\Temp\vnhn03ef.y2b\Tye_GetStarted.exe
+C:\Users\UA\AppData\Local\Temp\vnhn03ef.y2b\Tye_GetStarted.dll
+C:\Users\UA\AppData\Local\Temp\vnhn03ef.y2b\Tye_GetStarted.deps.json
+C:\Users\UA\AppData\Local\Temp\vnhn03ef.y2b\Tye_GetStarted.runtimeconfig.json
+C:\Users\UA\AppData\Local\Temp\vnhn03ef.y2b\Tye_GetStarted.pdb
+C:\Users\UA\AppData\Local\Temp\vnhn03ef.y2b\Microsoft.Extensions.Configuration.dll
+C:\Users\UA\AppData\Local\Temp\vnhn03ef.y2b\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\UA\AppData\Local\Temp\vnhn03ef.y2b\Microsoft.Extensions.Primitives.dll
+C:\Users\UA\AppData\Local\Temp\vnhn03ef.y2b\Microsoft.Tye.Extensions.Configuration.dll

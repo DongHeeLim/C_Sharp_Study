@@ -1,0 +1,15 @@
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\bin\Debug\net7.0\Console_PowerShell.exe
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\bin\Debug\net7.0\Console_PowerShell.deps.json
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\bin\Debug\net7.0\Console_PowerShell.runtimeconfig.json
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\bin\Debug\net7.0\Console_PowerShell.dll
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\bin\Debug\net7.0\Console_PowerShell.pdb
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\Console_PowerShell.csproj.AssemblyReference.cache
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\Console_PowerShell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\Console_PowerShell.AssemblyInfoInputs.cache
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\Console_PowerShell.AssemblyInfo.cs
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\Console_PowerShell.csproj.CoreCompileInputs.cache
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\Console_PowerShell.dll
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\refint\Console_PowerShell.dll
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\Console_PowerShell.pdb
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\Console_PowerShell.genruntimeconfig.cache
+D:\Github\UA_WORK\CSharp\Console_PowerShell\Console_PowerShell\obj\Debug\net7.0\ref\Console_PowerShell.dll

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\TabPanels\DrillingTab.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TabPanels\OptiTrackTab.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TabPanels\VisionTab.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TabPanels\VoiceTab.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserControls\ControlPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserControls\CustomTitle.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserControls\ToggleButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserControls\TopButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ControlPanelStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Fonts.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\SliderStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TabControlStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TabPanelslblStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ToggleButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TopButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\WindowsStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TabPanels\DrillingTab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TabPanels\OptiTrackTab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TabPanels\VisionTab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TabPanels\VoiceTab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UserControls\ControlPanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UserControls\CustomTitle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UserControls\ToggleButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UserControls\TopButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

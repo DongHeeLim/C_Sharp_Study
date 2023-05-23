@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SNa7+1MllGDYt3lWmy1Darb3/m3ZQXV8ohzvKsfIH6l0r/RyB3+KWQWhy4EpjRbeAVM/L+YEx/PM/+IobDRxSg==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\WPF_Python\\WPF_Python\\WPF_Python.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UA\\.nuget\\packages\\dynamiclanguageruntime\\1.3.3\\dynamiclanguageruntime.1.3.3.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\ironpython\\3.4.0\\ironpython.3.4.0.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\mono.unix\\7.1.0-final.1.21458.1\\mono.unix.7.1.0-final.1.21458.1.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

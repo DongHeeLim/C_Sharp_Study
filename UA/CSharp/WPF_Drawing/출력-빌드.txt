@@ -1,0 +1,5 @@
+﻿빌드 시작...
+1>------ 빌드 시작: 프로젝트: WPF_Drawing, 구성: Debug Any CPU ------
+1>  WPF_Drawing -> D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\bin\Debug\WPF_Drawing.exe
+========== 빌드: 1개 성공, 0개 실패, 0개 최신 상태, 0개 건너뜀 ==========
+========== 빌드이(가) 10:02 PM에 시작되었고 00.929 초이(가) 소요됨 ==========

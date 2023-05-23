@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOoX5LyC9YPaIcfHRQ3Te2zmBy1XWROaxLYVDDzspk4ZFzFJVY0s5ih9PIHKvIfFdWvKF9p+goizv4sDh9AR3A==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\WinForm_RealSense_Test\\WinForm_RealSense_Test\\WinForm_RealSense_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UA\\.nuget\\packages\\intel.realsensewithnativedll\\2.51.1.1\\intel.realsensewithnativedll.2.51.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

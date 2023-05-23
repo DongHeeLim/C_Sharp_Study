@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQOnFBKUestaqFnmlGGd+wJLj7gNJ4CXXmtsA1vqZfd03Moq4UzVoXaNiNxEIBbiI4xd9Qy0a06vJ4dXVi9c8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\ConsoleApp_MQTT_V4.1.4\\ConsoleApp_MQTT_V4.1.4\\MQTT_Broker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UA\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512"
+  ],
+  "logs": []
+}

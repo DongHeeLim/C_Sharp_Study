@@ -1,0 +1,22 @@
+﻿syntax = "proto3";
+
+// well known types
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+
+// 프로그램 내부에서 using 을 통해 사용
+option csharp_namespace = "GrpcProtos_Standard20";
+
+// Server - Client 간 이름 (같아야함)
+package GrpcChatSample.Common;
+
+service Chat {
+  rpc Write(ChatLog) returns (google.protobuf.Empty) {}
+  rpc Subscribe(google.protobuf.Empty) returns (stream ChatLog) {}
+}
+
+message ChatLog {
+	string name = 1;
+	string content = 2;
+	google.protobuf.Timestamp at = 3;
+}

@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Github\\UA_WORK\\CSharp\\WPF_RobotArm_2\\WPF_RobotArm_2\\WPF_RobotArm_2.csproj": {}
+  },
+  "projects": {
+    "D:\\Github\\UA_WORK\\CSharp\\WPF_RobotArm_2\\WPF_RobotArm_2\\WPF_RobotArm_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\UA_WORK\\CSharp\\WPF_RobotArm_2\\WPF_RobotArm_2\\WPF_RobotArm_2.csproj",
+        "projectName": "WPF_RobotArm_2",
+        "projectPath": "D:\\Github\\UA_WORK\\CSharp\\WPF_RobotArm_2\\WPF_RobotArm_2\\WPF_RobotArm_2.csproj",
+        "packagesPath": "C:\\Users\\UA\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\UA_WORK\\CSharp\\WPF_RobotArm_2\\WPF_RobotArm_2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\RTMS\\RTMS.csproj": {
+                "projectPath": "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\RTMS\\RTMS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.21.5, )"
+            },
+            "Grpc.Net.ClientFactory": {
+              "target": "Package",
+              "version": "[2.49.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.49.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\Protos\\Protos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\Protos\\Protos.csproj",
+        "projectName": "Protos",
+        "projectPath": "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\Protos\\Protos.csproj",
+        "packagesPath": "C:\\Users\\UA\\.nuget\\packages\\",
+        "outputPath": "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\Protos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.21.5, )"
+            },
+            "Grpc.Net.ClientFactory": {
+              "target": "Package",
+              "version": "[2.49.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.49.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\RTMS\\RTMS.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\RTMS\\RTMS.csproj",
+        "projectName": "RTMS",
+        "projectPath": "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\RTMS\\RTMS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\Protos\\Protos.csproj": {
+                "projectPath": "D:\\RTMS_git_230302_IMSOL_DEMO_Phantom\\Protos\\Protos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\bin\Debug\netstandard2.0\GrpcProtos_Standard20.deps.json
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\bin\Debug\netstandard2.0\GrpcProtos_Standard20.dll
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\bin\Debug\netstandard2.0\GrpcProtos_Standard20.pdb
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\obj\Debug\netstandard2.0\GrpcProtos_Standard20.csproj.AssemblyReference.cache
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\obj\Debug\netstandard2.0\GrpcProtos_Standard20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\obj\Debug\netstandard2.0\GrpcProtos_Standard20.AssemblyInfoInputs.cache
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\obj\Debug\netstandard2.0\GrpcProtos_Standard20.AssemblyInfo.cs
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\obj\Debug\netstandard2.0\GrpcProtos_Standard20.csproj.CoreCompileInputs.cache
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\obj\Debug\netstandard2.0\GrpcProtos_Standard20.dll
+D:\Github\UA_WORK\CSharp\Console_Grpc_Net7\GrpcProtos_Standard20\obj\Debug\netstandard2.0\GrpcProtos_Standard20.pdb

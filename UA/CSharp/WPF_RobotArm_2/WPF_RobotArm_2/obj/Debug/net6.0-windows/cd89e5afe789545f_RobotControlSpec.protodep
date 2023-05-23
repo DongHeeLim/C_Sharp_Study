@@ -1,0 +1,3 @@
+obj\Debug\net6.0-windows/RobotControlSpec.cs \
+obj\Debug\net6.0-windows/RobotControlSpecGrpc.cs: C:/Users/UA/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/empty.proto\
+ ../../../../../RTMS_git_230302_IMSOL_DEMO_Phantom/Protos/RobotControlSpec.proto

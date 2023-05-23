@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="WPF_RobotArm_2.View.TabPanels.DrillingTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_RobotArm_2.View.TabPanels"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+            <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Row="3" Grid.Column="1" Content="SetStentCT"/>
+        <Button Grid.Row="4" Grid.Column="1" Content="MoveLinearCT"/>
+        <Button Grid.Row="5" Grid.Column="1" Content="DrillRegistration"/>
+        <Label  Grid.Row="1" Grid.Column="1" Content="Drill Bit Input"  Margin="10, 2, 2, 2" FontSize="20" Style="{StaticResource TablPanel_lbl}"/>
+        <Label  Grid.Row="2" Grid.Column="1" Content="Drill Length" Margin="10, 2, 2, 2" FontSize="20" Style="{StaticResource TablPanel_lbl}"/>
+        <TextBox Grid.Row="1" Grid.Column="2" x:Name="drill_length_Input" Margin="25" MinWidth="50" 
+                 PreviewTextInput="drill_length_Input_PreviewTextInput" TextChanged="drill_length_Input_TextChanged"
+                 VerticalAlignment="Center"/>
+        <Label  Grid.Row="2" Grid.Column="2" x:Name="current_drill_length" Margin="25" FontSize="20" Style="{StaticResource TablPanel_lbl}"/>
+    </Grid>
+
+</UserControl>

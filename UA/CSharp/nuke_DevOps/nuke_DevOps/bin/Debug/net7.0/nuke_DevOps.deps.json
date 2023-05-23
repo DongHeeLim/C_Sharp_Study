@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "nuke_DevOps/1.0.0": {
+        "runtime": {
+          "nuke_DevOps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nuke_DevOps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

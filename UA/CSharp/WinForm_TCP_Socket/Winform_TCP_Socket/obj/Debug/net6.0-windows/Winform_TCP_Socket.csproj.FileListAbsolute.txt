@@ -1,0 +1,17 @@
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\bin\Debug\net6.0-windows\Winform_TCP_Socket.exe
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\bin\Debug\net6.0-windows\Winform_TCP_Socket.deps.json
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\bin\Debug\net6.0-windows\Winform_TCP_Socket.runtimeconfig.json
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\bin\Debug\net6.0-windows\Winform_TCP_Socket.dll
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\bin\Debug\net6.0-windows\Winform_TCP_Socket.pdb
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.csproj.AssemblyReference.cache
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.Form1.resources
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.csproj.GenerateResource.cache
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.AssemblyInfoInputs.cache
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.AssemblyInfo.cs
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.csproj.CoreCompileInputs.cache
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.dll
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\refint\Winform_TCP_Socket.dll
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.pdb
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\Winform_TCP_Socket.genruntimeconfig.cache
+D:\Github\UA_WORK\CSharp\Winform_TCP_Socket\Winform_TCP_Socket\obj\Debug\net6.0-windows\ref\Winform_TCP_Socket.dll

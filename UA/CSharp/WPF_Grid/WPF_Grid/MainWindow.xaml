@@ -1,0 +1,34 @@
+﻿<Window x:Class="WPF_Grid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Grid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70"/>
+            <ColumnDefinition Width="1200*"/>
+            <ColumnDefinition Width="400*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock x:Name="tb_name"  Text="이름" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <TextBlock x:Name="tb_age"   Text="나이" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <TextBlock x:Name="tb_intro" Text="소개" Grid.Row="2" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="20" />
+
+        <TextBox x:Name="tbox_name" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Margin="2,2,2,2" Background="Bisque"/>
+        <TextBox x:Name="tbox_age"  Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Margin="2,2,2,2" Background="Bisque"/>
+        <TextBox x:Name="tbox_intro"  Grid.Row="2" Grid.Column="1" AcceptsReturn="True"  Margin="2" Background="Bisque"/>
+
+        <Button x:Name="btn_ok" Grid.Row="2" Grid.Column="2" FontSize="20" Content="등록" Margin="2,2,2,2" BorderThickness="0"/>
+
+        <TextBlock x:Name="tb_about" Text="Grid를 이용하여 배치하기" Grid.Row="3" Grid.ColumnSpan="3" HorizontalAlignment="Center" Margin="1,1,1,1"/>
+    </Grid>
+</Window>

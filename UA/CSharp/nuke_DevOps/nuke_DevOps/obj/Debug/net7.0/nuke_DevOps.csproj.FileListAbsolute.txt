@@ -1,0 +1,15 @@
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\nuke_DevOps.csproj.AssemblyReference.cache
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\nuke_DevOps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\nuke_DevOps.AssemblyInfoInputs.cache
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\nuke_DevOps.AssemblyInfo.cs
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\nuke_DevOps.csproj.CoreCompileInputs.cache
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\bin\Debug\net7.0\nuke_DevOps.exe
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\bin\Debug\net7.0\nuke_DevOps.deps.json
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\bin\Debug\net7.0\nuke_DevOps.runtimeconfig.json
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\bin\Debug\net7.0\nuke_DevOps.dll
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\bin\Debug\net7.0\nuke_DevOps.pdb
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\nuke_DevOps.dll
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\refint\nuke_DevOps.dll
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\nuke_DevOps.pdb
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\nuke_DevOps.genruntimeconfig.cache
+D:\Github\UA_WORK\CSharp\nuke_DevOps\nuke_DevOps\obj\Debug\net7.0\ref\nuke_DevOps.dll

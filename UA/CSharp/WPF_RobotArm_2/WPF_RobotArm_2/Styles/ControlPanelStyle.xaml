@@ -1,0 +1,491 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="{x:Type RepeatButton}" x:Key="EndEffectorButton">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type RepeatButton}">
+                    <Grid x:Name="Root" >
+
+                        <Border x:Name="baseBorder"
+                                BorderThickness="1"
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                        
+
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="baseBorder" Property="Background" Value="#4b4b4b"/>
+                            <Setter TargetName="baseBorder" Property="BorderBrush" Value="#4b4b4b"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="False">
+                            <Setter TargetName="baseBorder" Property="Background" Value="#1e1e1e"/>
+                            <Setter TargetName="baseBorder" Property="BorderBrush" Value="#1a1a1a"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    
+    <Style TargetType="{x:Type ToggleButton}" x:Key="EnableJoint1">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToggleButton}">
+                    <Grid x:Name="Root"
+                          Margin="0"
+                          Background="{TemplateBinding Background}">
+
+                        <Border x:Name="Border" 
+                            BorderBrush="Transparent"
+                            BorderThickness="1"
+                            CornerRadius="1">
+
+                            <ContentPresenter
+                            
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                            Margin="1"
+                            x:Name="CP">
+                            </ContentPresenter>
+                            
+                        </Border>
+
+                        <Border x:Name="InnerBorder"
+                                Margin="5"                                
+                                MinWidth="100"
+                                CornerRadius="1"
+                                BorderBrush="#FF2FFF20"
+                                BorderThickness="1"                              
+                                HorizontalAlignment="Center">
+                         
+                        </Border>
+                        <Label x:Name="lbl" Content="J1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+
+                    </Grid>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger  Property="IsMouseOver" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="#FFFFFF"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="White"/>
+                            <Setter Property="FontWeight" Value="Medium"/>
+                        </Trigger>
+                        
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="Black"/>
+                        </Trigger>
+                        <Trigger Property="IsChecked" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                        </Trigger>
+                        
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type ToggleButton}" x:Key="EnableJoint2">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToggleButton}">
+                    <Grid x:Name="Root"
+                          Margin="0"
+                          Background="{TemplateBinding Background}">
+
+                        <Border x:Name="Border" 
+                            BorderBrush="Transparent"
+                            BorderThickness="1"
+                            CornerRadius="1">
+
+                            <ContentPresenter
+                            
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                            Margin="1"
+                            x:Name="CP">
+                            </ContentPresenter>
+
+                        </Border>
+
+                        <Border x:Name="InnerBorder"
+                                Margin="5"                                
+                                MinWidth="100"
+                                CornerRadius="1"
+                                BorderBrush="#FF2FFF20"
+                                BorderThickness="1"                              
+                                HorizontalAlignment="Center">
+
+                        </Border>
+                        <Label x:Name="lbl" Content="J2" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+
+                    </Grid>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger  Property="IsMouseOver" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="#FFFFFF"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="White"/>
+                            <Setter Property="FontWeight" Value="Medium"/>
+                        </Trigger>
+
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="Black"/>
+                        </Trigger>
+                        <Trigger Property="IsChecked" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                        </Trigger>
+
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type ToggleButton}" x:Key="EnableJoint3">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToggleButton}">
+                    <Grid x:Name="Root"
+                          Margin="0"
+                          Background="{TemplateBinding Background}">
+
+                        <Border x:Name="Border" 
+                            BorderBrush="Transparent"
+                            BorderThickness="1"
+                            CornerRadius="1">
+
+                            <ContentPresenter
+                            
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                            Margin="1"
+                            x:Name="CP">
+                            </ContentPresenter>
+
+                        </Border>
+
+                        <Border x:Name="InnerBorder"
+                                Margin="5"                                
+                                MinWidth="100"
+                                CornerRadius="1"
+                                BorderBrush="#FF2FFF20"
+                                BorderThickness="1"                              
+                                HorizontalAlignment="Center">
+
+                        </Border>
+                        <Label x:Name="lbl" Content="J3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+
+                    </Grid>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger  Property="IsMouseOver" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="#FFFFFF"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="White"/>
+                            <Setter Property="FontWeight" Value="Medium"/>
+                        </Trigger>
+
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="Black"/>
+                        </Trigger>
+                        <Trigger Property="IsChecked" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                        </Trigger>
+
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+    <Style TargetType="{x:Type ToggleButton}" x:Key="EnableJoint4">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToggleButton}" >
+                    <Grid x:Name="Root"
+                          Margin="0"
+                          Background="{TemplateBinding Background}">
+
+                        <Border x:Name="Border" 
+                            BorderBrush="Transparent"
+                            BorderThickness="1"
+                            CornerRadius="1">
+
+                            <ContentPresenter
+                            
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                            Margin="1"
+                            x:Name="CP">
+                            </ContentPresenter>
+
+                        </Border>
+
+                        <Border x:Name="InnerBorder"
+                                Margin="5"                                
+                                MinWidth="100"
+                                CornerRadius="1"
+                                BorderBrush="#FF2FFF20"
+                                BorderThickness="1"                              
+                                HorizontalAlignment="Center">
+
+                        </Border>
+                        <Label x:Name="lbl" Content="J4" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+
+                    </Grid>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger  Property="IsMouseOver" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="#FFFFFF"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="White"/>
+                            <Setter Property="FontWeight" Value="Medium"/>
+                        </Trigger>
+
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="Black"/>
+                        </Trigger>
+                        <Trigger Property="IsChecked" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                        </Trigger>
+
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type ToggleButton}" x:Key="EnableJoint5">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToggleButton}">
+                    <Grid x:Name="Root"
+                          Margin="0"
+                          Background="{TemplateBinding Background}">
+
+                        <Border x:Name="Border" 
+                            BorderBrush="Transparent"
+                            BorderThickness="1"
+                            CornerRadius="1"
+                            Background="{Binding Background}">
+                            
+                            <ContentPresenter
+                            
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                            Margin="1"
+                            x:Name="CP">
+                            </ContentPresenter>
+
+                        </Border>
+
+                        <Border x:Name="InnerBorder"
+                                Margin="5"                                
+                                MinWidth="100"
+                                CornerRadius="1"
+                                BorderBrush="#FF2FFF20"
+                                BorderThickness="1"                              
+                                HorizontalAlignment="Center">
+
+                        </Border>
+                        <Label x:Name="lbl" Content="J5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+
+                    </Grid>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger  Property="IsMouseOver" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="#FFFFFF"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="White"/>
+                            <Setter Property="FontWeight" Value="Medium"/>
+                        </Trigger>
+
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="Black"/>
+                        </Trigger>
+                        <Trigger Property="IsChecked" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                        </Trigger>
+
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type ToggleButton}" x:Key="EnableAllJoint">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToggleButton}">
+                    <Grid x:Name="Root"
+                          Margin="0"
+                          Background="{TemplateBinding Background}">
+
+                        <Border x:Name="Border" 
+                            BorderBrush="Transparent"
+                            BorderThickness="1"
+                            CornerRadius="1">
+                            
+                            <ContentPresenter
+                            
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                            Margin="1"
+                            x:Name="CP">
+                            </ContentPresenter>
+
+                        </Border>
+
+                        <Border x:Name="InnerBorder"
+                                Margin="5"                                
+                                MinWidth="100"
+                                CornerRadius="1"
+                                BorderBrush="#FF2FFF20"
+                                BorderThickness="1"                              
+                                HorizontalAlignment="Center">
+
+                        </Border>
+                        <Label x:Name="lbl" Content="All" Foreground="{Binding Foreground}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+
+                    </Grid>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger  Property="IsMouseOver" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="#FFFFFF"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="White"/>
+                            <Setter Property="FontWeight" Value="Medium"/>
+                        </Trigger>
+
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#00FF1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="Black"/>
+
+                        </Trigger>
+                        <Trigger Property="IsChecked" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                        </Trigger>
+
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type Label}" x:Key="ControlPanel_lbl">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="Template">
+            <Setter.Value>
+            <ControlTemplate TargetType="{x:Type Label}" >
+                    <Border MinWidth="50">
+                        <TextBlock Text="{Binding lbl_text}"
+                                   
+                                   FontSize="20"
+                                   VerticalAlignment="Center"
+                                   />
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type Button}" x:Key="Move_Joint_btn">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Grid x:Name="Root"
+                          Margin="0"
+                          Background="Black">
+
+                        <Border x:Name="Border"
+                                Margin="1.5"
+                                Background="Black" 
+                                BorderBrush="Red" 
+                                BorderThickness="0.8"
+                                CornerRadius="5">
+
+                            <ContentPresenter                      
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                            Margin="1"
+                            x:Name="CP">
+                            </ContentPresenter>
+                        </Border>
+
+                        <Label x:Name="lbl" 
+                               Content="Move Joint"
+                               FontSize="30"
+                               Foreground="White"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"/>
+                    </Grid>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger  Property="IsMouseOver" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="#1E1E1E"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="#FFFFFF"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="Black"/>
+                            <Setter TargetName="lbl" Property="Foreground" Value="#FFFFFF"/>
+                            <Setter Property="FontWeight" Value="Medium"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+
+</ResourceDictionary>

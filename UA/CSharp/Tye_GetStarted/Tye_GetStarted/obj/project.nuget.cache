@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q6PHI2irUDqDQaWBn3/QUUr8Xp5mBbSLyVZg/nxasuZPdIgIDXSN5tnApgMFRyXSnWfl0qKj4ANg75Of9UUXgw==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\Tye_GetStarted\\Tye_GetStarted\\Tye_GetStarted.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UA\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\microsoft.tye.extensions.configuration\\0.4.0-alpha.20371.1\\microsoft.tye.extensions.configuration.0.4.0-alpha.20371.1.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

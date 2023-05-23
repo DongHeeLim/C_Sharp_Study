@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C4MLiGTYZ1rJTuL+weFNVXEP3WlRMZnNRTlI3WJzpuM=",
+  "Source": "Grpc_File_Test",
+  "BasePath": "_content/Grpc_File_Test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample.csproj.AssemblyReference.cache
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\MainWindow.g.cs
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\App.g.cs
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample_MarkupCompile.cache
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample_MarkupCompile.lref
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\MainWindow.baml
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample.exe
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample.pdb
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\bin\Debug\WPF_ToggleSample.exe.config
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\bin\Debug\WPF_ToggleSample.exe
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\bin\Debug\WPF_ToggleSample.pdb
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample.g.resources
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample.Properties.Resources.resources
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample.csproj.GenerateResource.cache
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\WPF_ToggleSample.csproj.CoreCompileInputs.cache
+C:\Users\UA\source\repos\WPF_ToggleSample\WPF_ToggleSample\obj\Debug\GeneratedInternalTypeHelper.g.cs

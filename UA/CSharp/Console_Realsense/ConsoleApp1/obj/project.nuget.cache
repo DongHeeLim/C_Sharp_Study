@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvnVFoLzB1tOoL1rMm1B3gHVVuhnKgT1w+cYIoh9S7RzVX1/9Er9zuU+6aEpQtPojL3FmY9g8e/0+mKdNQCgPw==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UA\\.nuget\\packages\\intel.realsensewithnativedll\\2.51.1.1\\intel.realsensewithnativedll.2.51.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

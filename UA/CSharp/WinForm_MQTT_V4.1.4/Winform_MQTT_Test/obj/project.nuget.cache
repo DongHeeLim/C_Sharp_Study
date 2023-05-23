@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWZf9HGVH5rkO03iMseTgFxn9S8YXDwCfL/BNOqXr6nEhnh8RiPnEcz3u3pBuOiO3lO41r1VYtszmMUrwRcD3w==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\WinForm_MQTT_V4.1.4\\Winform_MQTT_Test\\Winform_MQTT_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UA\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.1.4.563\\mqttnet.extensions.managedclient.4.1.4.563.nupkg.sha512"
+  ],
+  "logs": []
+}

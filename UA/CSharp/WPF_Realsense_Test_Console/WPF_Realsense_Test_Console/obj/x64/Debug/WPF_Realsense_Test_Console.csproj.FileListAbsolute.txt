@@ -1,0 +1,17 @@
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\bin\x64\Debug\WPF_Realsense_Test_Console.exe.config
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\bin\x64\Debug\WPF_Realsense_Test_Console.exe
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\bin\x64\Debug\WPF_Realsense_Test_Console.pdb
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\bin\x64\Debug\Intel.RealSense.dll
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\bin\x64\Debug\Intel.RealSense.xml
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console.csproj.AssemblyReference.cache
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\UserControl1.g.cs
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console_Content.g.cs
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console_MarkupCompile.cache
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console_MarkupCompile.lref
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\UserControl1.baml
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console.g.resources
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console.csproj.CoreCompileInputs.cache
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console.csproj.CopyComplete
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console.exe
+C:\Users\UA\source\repos\WPF_Realsense_Test_Console\WPF_Realsense_Test_Console\obj\x64\Debug\WPF_Realsense_Test_Console.pdb

@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+option csharp_namespace = "SymbolicMathSolver.client";	// 해당 프로젝트로 변경
+
+package SymbolicMathSolver;
+
+
+// 서비스 이름이 중요
+service Solver {
+  rpc FindOverlapPoints(FindOverlapPointsRequest) returns (FindOverlapPointsReply);
+}
+
+
+message FindOverlapPointsRequest {
+  Circle circle1 = 1;
+  Circle circle2 = 2;
+}
+
+message Circle {
+	double x = 1;
+	double y = 2;
+    double r = 3;
+}
+
+
+message FindOverlapPointsReply {
+	repeated Vector2D OverlapPoints = 1;	// 파이썬 쪽 proto 는 singular 
+
+}
+
+message Vector2D{
+	double x = 1;
+	double y = 2;
+}

@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Test.cs \
+obj\Debug\net6.0/TestGrpc.cs: ../GrpcService_TEST/Protos/test.proto

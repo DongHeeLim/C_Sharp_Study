@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_SlashFlash_UI", "WPF_SlashFlash_UI\WPF_SlashFlash_UI.csproj", "{12D95D1F-76B4-4B3C-9A42-DE560192BBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D95D1F-76B4-4B3C-9A42-DE560192BBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D95D1F-76B4-4B3C-9A42-DE560192BBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D95D1F-76B4-4B3C-9A42-DE560192BBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D95D1F-76B4-4B3C-9A42-DE560192BBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC24469-BD9D-4AD8-A2DE-1E0C8F263C14}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m7dUTE4RgyPZ8GOQOPeEGVXtWogK1wHk5cschYtdj7E=",
+  "Source": "Grpc_Interceptor",
+  "BasePath": "_content/Grpc_Interceptor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\MQTT_Broker.csproj.AssemblyReference.cache
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\MQTT_Broker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\MQTT_Broker.AssemblyInfoInputs.cache
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\MQTT_Broker.AssemblyInfo.cs
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\MQTT_Broker.csproj.CoreCompileInputs.cache
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\bin\Debug\net7.0\MQTT_Broker.exe
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\bin\Debug\net7.0\MQTT_Broker.deps.json
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\bin\Debug\net7.0\MQTT_Broker.runtimeconfig.json
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\bin\Debug\net7.0\MQTT_Broker.dll
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\bin\Debug\net7.0\MQTT_Broker.pdb
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\bin\Debug\net7.0\MQTTnet.dll
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\MQTT_Broker.csproj.CopyComplete
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\MQTT_Broker.dll
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\refint\MQTT_Broker.dll
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\MQTT_Broker.pdb
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\MQTT_Broker.genruntimeconfig.cache
+D:\Github\UA_WORK\CSharp\ConsoleApp_MQTT_V4.1.4\ConsoleApp_MQTT_V4.1.4\obj\Debug\net7.0\ref\MQTT_Broker.dll

@@ -1,0 +1,77 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Data\UA_ICON.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\camera_outline.png" />
+    <None Remove="Data\East_arrow.png" />
+    <None Remove="Data\indy7.png" />
+    <None Remove="Data\North_arrow.png" />
+    <None Remove="Data\pen.png" />
+    <None Remove="Data\red_rotate_arrow.png" />
+    <None Remove="Data\South_arrow.png" />
+    <None Remove="Data\Start_37108.png" />
+    <None Remove="Data\STOP.png" />
+    <None Remove="Data\West_arrow.png" />
+    <None Remove="Data\Z_Down_arrow.png" />
+    <None Remove="Data\Z_Up_arrow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.21.5" />
+    <PackageReference Include="Grpc.Net.ClientFactory" Version="2.49.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.49.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\RTMS_git_230302_IMSOL_DEMO_Phantom\RTMS\RTMS.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Data\indy7.png" />
+    <Resource Include="Data\pen.png" />
+    <Resource Include="Data\Start_37108.png" />
+    <Resource Include="Data\STOP.png" />
+    <Resource Include="Data\West_arrow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Data\camera_outline.png" />
+    <Resource Include="Data\East_arrow.png" />
+    <Resource Include="Data\North_arrow.png" />
+    <Resource Include="Data\red_rotate_arrow.png" />
+    <Resource Include="Data\South_arrow.png" />
+    <Resource Include="Data\UA_ICON.ico" />
+    <Resource Include="Data\Z_Down_arrow.png" />
+    <Resource Include="Data\Z_Up_arrow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="TASKKILL  /FI &quot;STATUS eq RUNNING&quot; /IM WPF_RobotArm_2.exe /F /T" />
+  </Target>
+
+</Project>

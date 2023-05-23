@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option csharp_namespace = "SymbolicMathSolver.Server";
+
+package SymbolicMathSolver;
+
+
+service Solver {
+  rpc FindOverlapPoints(FindOverlapPointsRequest) returns (FindOverlapPointsReply);
+}
+
+
+message FindOverlapPointsRequest {
+  Circle circle1 = 1;
+  Circle circle2 = 2;
+}
+
+message Circle {
+	double x = 1;
+	double y = 2;
+    double r = 3;
+}
+
+
+message FindOverlapPointsReply {
+	repeated Vector2D OverlapPoints = 1;
+}
+
+message Vector2D{
+	double x = 1;
+	double y = 2;
+}

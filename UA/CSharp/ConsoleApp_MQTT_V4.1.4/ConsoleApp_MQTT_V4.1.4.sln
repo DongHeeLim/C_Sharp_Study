@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTT_Broker", "ConsoleApp_MQTT_V4.1.4\MQTT_Broker.csproj", "{52EE789F-CA22-4AED-99D1-61CD3C786EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTT_Client_ControlCenter", "MQTT_Client_ControlCenter\MQTT_Client_ControlCenter.csproj", "{50277980-1D0E-45C9-A441-2F68A145FEF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTT_Client_Target", "MQTT_Client_Target\MQTT_Client_Target.csproj", "{D81D1704-A18A-4D27-BDCA-149C3A6FEC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52EE789F-CA22-4AED-99D1-61CD3C786EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EE789F-CA22-4AED-99D1-61CD3C786EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EE789F-CA22-4AED-99D1-61CD3C786EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EE789F-CA22-4AED-99D1-61CD3C786EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50277980-1D0E-45C9-A441-2F68A145FEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50277980-1D0E-45C9-A441-2F68A145FEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50277980-1D0E-45C9-A441-2F68A145FEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50277980-1D0E-45C9-A441-2F68A145FEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81D1704-A18A-4D27-BDCA-149C3A6FEC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81D1704-A18A-4D27-BDCA-149C3A6FEC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81D1704-A18A-4D27-BDCA-149C3A6FEC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81D1704-A18A-4D27-BDCA-149C3A6FEC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4938F60F-18A5-44CA-964E-6AA9771A5644}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+obj\Debug\net6.0\pProtos/SymbolicMathSolver.cs \
+obj\Debug\net6.0\pProtos/SymbolicMathSolverGrpc.cs: pProtos/SymbolicMathSolver.proto

@@ -1,0 +1,16 @@
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\bin\Debug\WPF_Hosting_Test1.exe.config
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\bin\Debug\WPF_Hosting_Test1.exe
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\bin\Debug\WPF_Hosting_Test1.pdb
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1.csproj.AssemblyReference.cache
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1.csproj.SuggestedBindingRedirects.cache
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\MainWindow.g.cs
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\App.g.cs
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1_MarkupCompile.cache
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1_MarkupCompile.lref
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\MainWindow.baml
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1.g.resources
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1.Properties.Resources.resources
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1.csproj.GenerateResource.cache
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1.csproj.CoreCompileInputs.cache
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1.exe
+E:\Github\UA_WORK\CSharp\WPF_Hosting_Test1\WPF_Hosting_Test1\obj\Debug\WPF_Hosting_Test1.pdb

@@ -1,0 +1,21 @@
+AssemblyInformationalVersion:
+InformationalVersion: 1.0.0
+Version: 1.0.0
+TargetFrameworks:
+RunCommand: D:\Github\UA_WORK\CSharp\Tye_GetStarted\console_1\bin\Debug\net7.0\console_1.exe
+RunArguments:
+TargetPath: D:\Github\UA_WORK\CSharp\Tye_GetStarted\console_1\bin\Debug\net7.0\console_1.dll
+PublishDir: bin\Debug\net7.0\publish\
+AssemblyName: console_1
+IntermediateOutputPath: obj\Debug\net7.0\
+TargetFramework: net7.0
+_ShortFrameworkIdentifier:
+_ShortFrameworkVersion:
+_TargetFrameworkVersionWithoutV: 7.0
+FrameworkReference: Microsoft.NETCore.App
+ContainerBaseImage:
+ContainerBaseTag:
+MicrosoftNETPlatformLibrary:
+_AspNetCoreAppSharedFxIsEnabled:
+UsingMicrosoftNETSdkWeb:
+AzureFunctionsVersion:

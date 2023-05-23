@@ -1,0 +1,9 @@
+D:\Github\UA_WORK\CSharp\WPF_Realsense_Test\WPF_Realsense_Test\obj\ARM64\Debug\WPF_Realsense_Test.csproj.AssemblyReference.cache
+D:\Github\UA_WORK\CSharp\WPF_Realsense_Test\WPF_Realsense_Test\obj\ARM64\Debug\WPF_Realsense_Test.csproj.SuggestedBindingRedirects.cache
+D:\Github\UA_WORK\CSharp\WPF_Realsense_Test\WPF_Realsense_Test\obj\ARM64\Debug\MainWindow.g.cs
+D:\Github\UA_WORK\CSharp\WPF_Realsense_Test\WPF_Realsense_Test\obj\ARM64\Debug\App.g.cs
+D:\Github\UA_WORK\CSharp\WPF_Realsense_Test\WPF_Realsense_Test\obj\ARM64\Debug\WPF_Realsense_Test_Content.g.cs
+D:\Github\UA_WORK\CSharp\WPF_Realsense_Test\WPF_Realsense_Test\obj\ARM64\Debug\WPF_Realsense_Test_MarkupCompile.cache
+D:\Github\UA_WORK\CSharp\WPF_Realsense_Test\WPF_Realsense_Test\obj\ARM64\Debug\WPF_Realsense_Test_MarkupCompile.lref
+D:\Github\UA_WORK\CSharp\WPF_Realsense_Test\WPF_Realsense_Test\obj\ARM64\Debug\WPF_Realsense_Test.exe
+D:\Github\UA_WORK\CSharp\WPF_Realsense_Test\WPF_Realsense_Test\obj\ARM64\Debug\WPF_Realsense_Test.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUC0looA8nngnTMF8nF/N9zoBxTt116x0431/Y1OTp0nu3ma2UzsT1Qw58qBB2xhhGZmpEt5TKbKJJayP5dlNQ==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\Grpc_JSON\\JsonSerializingDeserializingTest\\JsonSerializingDeserializingTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UA\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

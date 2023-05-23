@@ -1,0 +1,156 @@
+﻿<UserControl x:Class="WPF_RobotArm_2.View.UserControls.ControlPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_RobotArm_2.View.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="75*"/>
+                <ColumnDefinition Width="25*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <RepeatButton Grid.Row="0" Grid.ColumnSpan="3" x:Name="rpbtn_Rotate" Interval="50" Click="rpbtn_Rotate_Click" Background="Black" Style="{StaticResource EndEffectorButton}">
+                    <Image Source="..\..\Data\red_rotate_arrow.png" Stretch="Fill"                           
+                           SnapsToDevicePixels="True"
+                           UseLayoutRounding="False"
+                           RenderOptions.BitmapScalingMode="NearestNeighbor"/>
+                </RepeatButton>
+
+                <RepeatButton Grid.Row="1" Grid.Column="1"  x:Name="rpbtn_up" Interval="50" Click="rpbtn_Click" Background="Black" Style="{StaticResource EndEffectorButton}">
+                    <Image Source="..\..\Data\North_arrow.png" Stretch="Fill"/>
+                </RepeatButton>
+
+                <RepeatButton Grid.Row="3" Grid.Column="1"  x:Name="rpbtn_down" Interval="50" Click="rpbtn_Click"  Background="Black" Style="{StaticResource EndEffectorButton}">
+                    <Image Source="..\..\Data\South_arrow.png" Stretch="Fill"/>
+                </RepeatButton>
+
+
+                <RepeatButton Grid.Row="2" Grid.Column="0"  x:Name="rpbtn_left" Interval="50" Click="rpbtn_Click" Background="Black" Style="{StaticResource EndEffectorButton}">
+                    <Image Source="..\..\Data\West_arrow.png" Stretch="Fill"/>
+                </RepeatButton>
+
+                <RepeatButton Grid.Row="2" Grid.Column="2"  x:Name="rpbtn_right" Interval="50" Click="rpbtn_Click" Background="Black" Style="{StaticResource EndEffectorButton}">
+                    <Image Source="..\..\Data\East_arrow.png" Stretch="Fill"/>
+                </RepeatButton>
+
+                <RepeatButton Grid.Row="2" Grid.Column="1"  x:Name="rpbtn_stop" Interval="50" Click="rpbtn_Click" Background="Black" Style="{StaticResource EndEffectorButton}">
+                    <Image Source="..\..\Data\STOP.png" Stretch="Fill"/>
+                </RepeatButton>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <RepeatButton Grid.Row="0"  x:Name="rpbtn_zup" Interval="50" Click="rpbtn_Click" Background="Black" Style="{StaticResource EndEffectorButton}">
+                    <Image Source="..\..\Data\Z_Up_arrow.png" Stretch="Fill"/>
+                </RepeatButton>
+                <RepeatButton Grid.Row="1"  x:Name="rpbtn_zdown" Interval="50" Click="rpbtn_Click" Background="Black" Style="{StaticResource EndEffectorButton}">
+                    <Image Source="..\..\Data\Z_Down_arrow.png" Stretch="Fill"/>
+                </RepeatButton>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Row="1" ShowGridLines="True">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="45*"/>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="45*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4" Grid.RowSpan="7">
+                    <Image Source="../../Data/indy7.png" HorizontalAlignment="Left" Stretch="Fill"/>
+                </Grid>
+
+
+                <!--<ToggleButton Grid.Row="0" Grid.Column="0" Opacity="0.5"/>
+                <ToggleButton Grid.Row="1" Grid.Column="0" Opacity="0.5"/>-->
+
+
+
+
+                <ToggleButton x:Name="btn_J1" FontSize="30" Grid.Row="3" Grid.Column="2" Grid.RowSpan="2" Grid.ColumnSpan="2" Background="Black" Opacity="0.7" Style="{StaticResource EnableJoint1}" Click="btn_J1_Click"/>
+                <ToggleButton x:Name="btn_J2" FontSize="30" Grid.Row="1" Grid.Column="0" Grid.RowSpan="3" Grid.ColumnSpan="2" Background="Black" Opacity="0.7" Style="{StaticResource EnableJoint2}" Click="btn_J2_Click"/>
+                <ToggleButton x:Name="btn_J3" FontSize="30" Grid.Row="1" Grid.Column="2" Grid.RowSpan="2" Grid.ColumnSpan="2" Background="Black" Opacity="0.7" Style="{StaticResource EnableJoint3}" Click="btn_J3_Click"/>
+                <ToggleButton x:Name="btn_J4" FontSize="30" Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="2" Background="Black" Opacity="0.7" Style="{StaticResource EnableJoint4}" Click="btn_J4_Click"/>
+                <ToggleButton x:Name="btn_J5" FontSize="30" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Background="Black" Opacity="0.7" Style="{StaticResource EnableJoint5}" Click="btn_J5_Click"/>
+                <ToggleButton x:Name="btn_J_All" FontSize="50" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" Background="Black" Opacity="0.7" Style="{StaticResource EnableAllJoint}" Click="btn_J_All_Click"/>
+
+            </Grid>
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="15*"/>
+                    <ColumnDefinition Width="85*"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Row="0" Grid.Column="0" />
+                <Label x:Name="lbl_j6" Grid.Row="1" Grid.Column="0" Content="J6" MinWidth="30" Width="30" FontSize="20" VerticalAlignment="Center" Foreground="White" />
+                <Label x:Name="lbl_j5" Grid.Row="2" Grid.Column="0" Content="J5" MinWidth="30" Width="30" FontSize="20" VerticalAlignment="Center" Foreground="White" />
+                <Label x:Name="lbl_j4" Grid.Row="3" Grid.Column="0" Content="J4" MinWidth="30" Width="30" FontSize="20" VerticalAlignment="Center" Foreground="White" />
+                <Label x:Name="lbl_j3" Grid.Row="4" Grid.Column="0" Content="J3" MinWidth="30" Width="30" FontSize="20" VerticalAlignment="Center" Foreground="White" />
+                <Label x:Name="lbl_j2" Grid.Row="5" Grid.Column="0" Content="J2" MinWidth="30" Width="30" FontSize="20" VerticalAlignment="Center" Foreground="White" />
+                <Label x:Name="lbl_j1" Grid.Row="6" Grid.Column="0" Content="J1" MinWidth="30" Width="30" FontSize="20" VerticalAlignment="Center" Foreground="White" />
+
+  
+                <Button x:Name="btn_JointExecutor"
+                        Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                        Click="btn_JointExecutor_Click"
+                        Style="{StaticResource Move_Joint_btn}"/>
+
+                    
+
+                <Slider x:Name="slider_j6" Grid.Row="1" Grid.Column="1" Minimum="0" Maximum="240" IsEnabled="True" IsSnapToTickEnabled="True" Style="{StaticResource CustomSliderStyle}"/>
+                <Slider x:Name="slider_j5" Grid.Row="2" Grid.Column="1" Minimum="0" Maximum="240" IsEnabled="False" IsSnapToTickEnabled="True" Style="{StaticResource CustomSliderStyle}"/>
+                <Slider x:Name="slider_j4" Grid.Row="3" Grid.Column="1" Minimum="0" Maximum="240" IsEnabled="False" IsSnapToTickEnabled="True" Style="{StaticResource CustomSliderStyle}"/>
+                <Slider x:Name="slider_j3" Grid.Row="4" Grid.Column="1" Minimum="0" Maximum="240" IsEnabled="False" IsSnapToTickEnabled="True" Style="{StaticResource CustomSliderStyle}"/>
+                <Slider x:Name="slider_j2" Grid.Row="5" Grid.Column="1" Minimum="0" Maximum="240" IsEnabled="False" IsSnapToTickEnabled="True" Style="{StaticResource CustomSliderStyle}"/>
+                <Slider x:Name="slider_j1" Grid.Row="6" Grid.Column="1" Minimum="0" Maximum="240" IsEnabled="False" IsSnapToTickEnabled="True" Style="{StaticResource CustomSliderStyle}"/>
+
+            </Grid>
+        
+        </Grid>
+        
+    </Grid>
+</UserControl>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mx/8cOooU/nQUBbyO5+NNoaIcp0pPCzYgg+UDfZ62R1D6EwVUrNZKQoy+Y2eTJbQGxj1KQTbYpwQWX9DH9Ps0w==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\ConsoleApp_MQTT_V4.1.4\\MQTT_Client_ControlCenter\\MQTT_Client_ControlCenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UA\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\UA\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.1.4.563\\mqttnet.extensions.managedclient.4.1.4.563.nupkg.sha512"
+  ],
+  "logs": []
+}

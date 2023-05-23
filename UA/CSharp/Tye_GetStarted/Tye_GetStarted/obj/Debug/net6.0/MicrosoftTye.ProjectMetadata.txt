@@ -1,0 +1,21 @@
+AssemblyInformationalVersion:
+InformationalVersion: 1.0.0
+Version: 1.0.0
+TargetFrameworks:
+RunCommand: D:\Github\UA_WORK\CSharp\Tye_GetStarted\Tye_GetStarted\bin\Debug\net6.0\Tye_GetStarted.exe
+RunArguments:
+TargetPath: D:\Github\UA_WORK\CSharp\Tye_GetStarted\Tye_GetStarted\bin\Debug\net6.0\Tye_GetStarted.dll
+PublishDir: bin\Debug\net6.0\publish\
+AssemblyName: Tye_GetStarted
+IntermediateOutputPath: obj\Debug\net6.0\
+TargetFramework: net6.0
+_ShortFrameworkIdentifier:
+_ShortFrameworkVersion:
+_TargetFrameworkVersionWithoutV: 6.0
+FrameworkReference: Microsoft.NETCore.App
+ContainerBaseImage:
+ContainerBaseTag:
+MicrosoftNETPlatformLibrary:
+_AspNetCoreAppSharedFxIsEnabled:
+UsingMicrosoftNETSdkWeb:
+AzureFunctionsVersion:

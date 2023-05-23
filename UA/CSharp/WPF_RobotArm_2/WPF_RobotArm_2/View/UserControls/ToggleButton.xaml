@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="WPF_RobotArm_2.View.UserControls.ToggleButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_RobotArm_2.View.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <!---BASE-->
+        <Border Height="50" Width="150" CornerRadius="25" BorderBrush="#FFAAAAAA" BorderThickness="1" Background="#FFFD4B5D">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <!--TEXT HOLDER-->
+                <TextBlock Text="OFF" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1"/>
+            </Grid>
+        </Border>
+        <!---SWITCH-->
+        <Border Height="47" Width="47" Margin="1.5" CornerRadius="23.5" BorderBrush="#FFAAAAAA" BorderThickness="1" Background="#FF555555" HorizontalAlignment="Left">
+
+        </Border>
+
+    </Grid>
+</UserControl>

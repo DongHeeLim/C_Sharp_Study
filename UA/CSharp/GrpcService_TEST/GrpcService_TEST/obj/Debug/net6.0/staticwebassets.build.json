@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bY5nUKU69gLFQHN2YbEImWtEZfsiHdO07bVQvDsqX04=",
+  "Source": "GrpcService_TEST",
+  "BasePath": "_content/GrpcService_TEST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

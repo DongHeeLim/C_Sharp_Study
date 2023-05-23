@@ -1,0 +1,16 @@
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing.csproj.AssemblyReference.cache
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing.csproj.SuggestedBindingRedirects.cache
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\MainWindow.g.cs
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\App.g.cs
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing_MarkupCompile.cache
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing_MarkupCompile.lref
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\bin\Debug\WPF_Drawing.exe.config
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\bin\Debug\WPF_Drawing.exe
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\bin\Debug\WPF_Drawing.pdb
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\MainWindow.baml
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing.g.resources
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing.Properties.Resources.resources
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing.csproj.GenerateResource.cache
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing.csproj.CoreCompileInputs.cache
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing.exe
+D:\Github\UA_WORK\CSharp\WPF_Drawing\WPF_Drawing\obj\Debug\WPF_Drawing.pdb

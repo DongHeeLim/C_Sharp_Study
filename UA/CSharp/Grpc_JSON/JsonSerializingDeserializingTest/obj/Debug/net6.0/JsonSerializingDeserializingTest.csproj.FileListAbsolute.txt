@@ -1,0 +1,17 @@
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\JsonSerializingDeserializingTest.csproj.AssemblyReference.cache
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\JsonSerializingDeserializingTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\JsonSerializingDeserializingTest.AssemblyInfoInputs.cache
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\JsonSerializingDeserializingTest.AssemblyInfo.cs
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\JsonSerializingDeserializingTest.csproj.CoreCompileInputs.cache
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\bin\Debug\net6.0\JsonSerializingDeserializingTest.exe
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\bin\Debug\net6.0\JsonSerializingDeserializingTest.deps.json
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\bin\Debug\net6.0\JsonSerializingDeserializingTest.runtimeconfig.json
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\bin\Debug\net6.0\JsonSerializingDeserializingTest.dll
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\bin\Debug\net6.0\JsonSerializingDeserializingTest.pdb
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\JsonSerializingDeserializingTest.csproj.CopyComplete
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\JsonSerializingDeserializingTest.dll
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\refint\JsonSerializingDeserializingTest.dll
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\JsonSerializingDeserializingTest.pdb
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\JsonSerializingDeserializingTest.genruntimeconfig.cache
+D:\Github\UA_WORK\CSharp\Grpc_JSON\JsonSerializingDeserializingTest\obj\Debug\net6.0\ref\JsonSerializingDeserializingTest.dll
