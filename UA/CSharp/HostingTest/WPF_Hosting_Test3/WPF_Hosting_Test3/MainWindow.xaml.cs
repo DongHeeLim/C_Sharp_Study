@@ -81,7 +81,7 @@ namespace WPF_Hosting_Test3
 
                 psi = new ProcessStartInfo(openFileDialog.FileName);
                 _process = Process.Start(psi);
-                Thread.Sleep(1000); // 유니티가 완전히 실행될때까지 대기
+                Thread.Sleep(3000); // 유니티가 완전히 실행될때까지 대기 -> Task.Delay 로 따로 만들기 
                 _process.WaitForInputIdle();
 
 
