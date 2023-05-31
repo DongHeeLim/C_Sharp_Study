@@ -2,8 +2,8 @@ syntax = "proto3";
 
 option csharp_namespace = "GrpcService_TEST";
 
-
 package test;
+
 
 // The greeting service definition.
 service Tester {

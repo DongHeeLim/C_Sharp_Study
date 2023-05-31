@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\UA_WORK\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\GrpcTest.Client.csproj": {}
+    "D:\\Github\\C_Sharp_Study\\UA\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\GrpcTest.Client.csproj": {}
   },
   "projects": {
-    "D:\\Github\\UA_WORK\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\GrpcTest.Client.csproj": {
+    "D:\\Github\\C_Sharp_Study\\UA\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\GrpcTest.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\UA_WORK\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\GrpcTest.Client.csproj",
+        "projectUniqueName": "D:\\Github\\C_Sharp_Study\\UA\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\GrpcTest.Client.csproj",
         "projectName": "GrpcTest.Client",
-        "projectPath": "D:\\Github\\UA_WORK\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\GrpcTest.Client.csproj",
+        "projectPath": "D:\\Github\\C_Sharp_Study\\UA\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\GrpcTest.Client.csproj",
         "packagesPath": "C:\\Users\\UA\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\UA_WORK\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\obj\\",
+        "outputPath": "D:\\Github\\C_Sharp_Study\\UA\\CSharp\\GrpcService_TEST\\GrpcTest.Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\UA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

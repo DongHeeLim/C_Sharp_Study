@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUVydIW7QcFlDWt5SO2dmAJ7Cat1QM6VOSqWw/qY6vsigPQCIhIQxeuxt5T24frxSFDnkEgd+WFGxEjijuFk5w==",
+  "dgSpecHash": "rw3xRAxPWDiHeDb9xu+kPXLt8bJLzTJ27EeMR/EsW0UtLwGevkI5BmYI7ALxkDTfvFrdTAkm0kXKyYA1i98u5Q==",
   "success": true,
-  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\GrpcService_Hello\\GrpcService_Hello\\GrpcService_Hello.csproj",
+  "projectFilePath": "D:\\Github\\C_Sharp_Study\\UA\\CSharp\\GrpcService_Hello\\GrpcService_Hello\\GrpcService_Hello.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UA\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\UA\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",

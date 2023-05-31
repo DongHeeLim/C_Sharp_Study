@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GrpcTest.Client
-build_property.ProjectDir = D:\Github\UA_WORK\CSharp\GrpcService_TEST\GrpcTest.Client\
+build_property.ProjectDir = D:\Github\C_Sharp_Study\UA\CSharp\GrpcService_TEST\GrpcTest.Client\

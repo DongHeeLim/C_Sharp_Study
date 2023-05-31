@@ -66,3 +66,8 @@ D:\Github\UA_WORK\CSharp\GrpcService_Hello\GrpcService_Hello\obj\Debug\net6.0\re
 D:\Github\UA_WORK\CSharp\GrpcService_Hello\GrpcService_Hello\obj\Debug\net6.0\GrpcService_Hello.pdb
 D:\Github\UA_WORK\CSharp\GrpcService_Hello\GrpcService_Hello\obj\Debug\net6.0\GrpcService_Hello.genruntimeconfig.cache
 D:\Github\UA_WORK\CSharp\GrpcService_Hello\GrpcService_Hello\obj\Debug\net6.0\ref\GrpcService_Hello.dll
+D:\Github\C_Sharp_Study\UA\CSharp\GrpcService_Hello\GrpcService_Hello\obj\Debug\net6.0\GrpcService_Hello.csproj.AssemblyReference.cache
+D:\Github\C_Sharp_Study\UA\CSharp\GrpcService_Hello\GrpcService_Hello\obj\Debug\net6.0\GrpcService_Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp_Study\UA\CSharp\GrpcService_Hello\GrpcService_Hello\obj\Debug\net6.0\GrpcService_Hello.dll
+D:\Github\C_Sharp_Study\UA\CSharp\GrpcService_Hello\GrpcService_Hello\obj\Debug\net6.0\refint\GrpcService_Hello.dll
+D:\Github\C_Sharp_Study\UA\CSharp\GrpcService_Hello\GrpcService_Hello\obj\Debug\net6.0\GrpcService_Hello.pdb

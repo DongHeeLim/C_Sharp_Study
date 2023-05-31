@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rNX4/0qA3IVklsPj6/JOx4JhUXRreKR/j2eaHoYHKQZRX0bYiIWBl7QWhiNoYATvkEbGDBjUQihRcvt/+FfkIw==",
+  "dgSpecHash": "AdsYik9MwLhqz3K4WI7nkwDgv/rbVaLS8DX6i3ZsLQ2kZXWNAg4PB57ZhrC3Vkahk1hXp6z+hwtPMnjNn/oubw==",
   "success": true,
-  "projectFilePath": "D:\\Github\\UA_WORK\\CSharp\\GrpcService_TEST\\GrpcService_TEST\\GrpcService_TEST.csproj",
+  "projectFilePath": "D:\\Github\\C_Sharp_Study\\UA\\CSharp\\GrpcService_TEST\\GrpcService_TEST\\GrpcService_TEST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UA\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\UA\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
