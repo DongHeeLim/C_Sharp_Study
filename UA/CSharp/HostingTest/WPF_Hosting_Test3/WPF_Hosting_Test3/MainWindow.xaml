@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Hosting_Test3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="800" Width="800">
+        Title="MainWindow" Height="1200" Width="1000">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
@@ -19,8 +19,15 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <WindowsFormsHost x:Name="WinFormHost" Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="3" Loaded="WinFormHost_Loaded"/>
-
-        <TextBlock x:Name="txtblk_AppPath" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3"/>
-        <Button x:Name="btn_OpenBrowseApp" Grid.Row="2" Grid.Column="3" Content="Open" Click="btnOpenBrowseApp_Click"/>
+        <ScrollViewer Grid.Row="0" Grid.Column="3" Grid.RowSpan="3">
+            <TextBox x:Name="txtblk_AppPath"   
+                       ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                       ScrollViewer.VerticalScrollBarVisibility="Auto"
+                       ScrollViewer.CanContentScroll="True"
+                       IsReadOnly="True"
+                       TextWrapping="Wrap"/>
+        </ScrollViewer>
+        <Button x:Name="btn_OpenBrowseApp" Grid.Row="2" Grid.Column="1" Content="Open" Click="btnOpenBrowseApp_Click"/>
+        <Button x:Name="btn_CloseEXE" Grid.Row="3" Grid.Column="0" Content="Close" Click="btn_CloseEXE_Click"/>
     </Grid>
 </Window>

@@ -55,8 +55,8 @@ namespace WPF_Hosting_Test3
         public MainWindow()
         {
             InitializeComponent();
-            appContainer = new AppContainer();
-            this.appContainer.ShowEmbedResult = true;
+            //appContainer = new AppContainer();
+            //this.appContainer.ShowEmbedResult = true;
             openFileDialog.Multiselect = false;
             openFileDialog.Filter = "실행 파일(*.exe)|*.exe";
           
@@ -78,13 +78,33 @@ namespace WPF_Hosting_Test3
                 //appContainer.AppFilename = openFileDialog.FileName;
                 //appContainer.Start();
 
-
+                txtblk_AppPath.Text += "Start Process\n";
                 psi = new ProcessStartInfo(openFileDialog.FileName);
                 _process = Process.Start(psi);
+                
+                Thread.Sleep(1000); // 필수
+                Process[] processes = Process.GetProcesses();
+                bool isExecuting = false;
+                foreach (Process proc in processes) 
+                {
+                    //txtblk_AppPath.Text += $"{proc.ProcessName}\n";
+                    if (proc.ProcessName.Equals("Robot_ARM")) 
+                    {
+                        txtblk_AppPath.Text += $"{proc.ProcessName}\n";
+                        ShowWindow(_process.MainWindowHandle, SW_MINIMIZE);
+                        
+                        //SetForegroundWindow(procHandler);
+                        isExecuting = true;
+                        break;
+                    }
+                }
+                txtblk_AppPath.Text += "==DoneWithRobotArm==";
+
+
                 Thread.Sleep(3000); // 유니티가 완전히 실행될때까지 대기 -> Task.Delay 로 따로 만들기 
                 _process.WaitForInputIdle();
 
-
+                
 
                 SetParent(_process.MainWindowHandle, _panel.Handle);
 
@@ -103,15 +123,15 @@ namespace WPF_Hosting_Test3
 
 
 
-        protected override void OnClosing(System.ComponentModel.CancelEventArgs e)
-        {
-            base.OnClosing(e);
-            if (_process != null)
-            {
-                _process.Refresh();
-                _process.Close();
-            }
-        }
+        //protected override void OnClosing(System.ComponentModel.CancelEventArgs e)
+        //{
+        //    base.OnClosing(e);
+        //    if (_process != null)
+        //    {
+        //        _process.Refresh();
+        //        _process.Close();
+        //    }
+        //}
 
         private void ResizeEmbeddedApp()
         {
@@ -121,16 +141,46 @@ namespace WPF_Hosting_Test3
             SetWindowPos(_process.MainWindowHandle, IntPtr.Zero, 0, 0, (int)_panel.ClientSize.Width, (int)_panel.ClientSize.Height, SWP_NOZORDER | SWP_NOACTIVATE);
         }
 
-        protected override Size MeasureOverride(Size availableSize)
-        {
-            Size size = base.MeasureOverride(availableSize);
-            ResizeEmbeddedApp();
-            return size;
-        }
+        //protected override Size MeasureOverride(Size availableSize)
+        //{
+        //    Size size = base.MeasureOverride(availableSize);
+        //    ResizeEmbeddedApp();
+        //    return size;
+        //}
 
         private void WinFormHost_Loaded(object sender, RoutedEventArgs e)
         {
             // 해당 프로그램 없으면 선택창 생성
         }
+
+        private void btn_CloseEXE_Click(object sender, RoutedEventArgs e)
+        {
+            if (_process != null)
+            {
+                _process.Refresh();
+                _process.Close();
+                //_process.Kill();
+                //WinFormHost.Dispose();
+            }
+
+        }
+
+        [DllImport("user32.dll")]
+        public static extern IntPtr FindWindowEx(IntPtr handleParent, IntPtr handleChild, string className, string WindowName);
+
+        [DllImport("User32", EntryPoint = "FindWindow")]
+        private static extern IntPtr FindWindow(string lpClassName, string lpWindowName);
+
+        [DllImport("user32.dll")]
+        public static extern void SetForegroundWindow(IntPtr hWnd);
+
+        [DllImport("user32.dll")]
+        public static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
+        private const int SW_SHOWNORMAL = 1;
+        private const int SW_MINIMIZE = 6;
+
+
+        [DllImport("user32.dll")]
+        private static extern IntPtr GetActiveWindow();
     }
 }
