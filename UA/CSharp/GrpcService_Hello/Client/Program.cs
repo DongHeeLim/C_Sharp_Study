@@ -14,7 +14,8 @@ class Program
         //using var channel = GrpcChannel.ForAddress("https://localhost:7134");
         //using var channel = GrpcChannel.ForAddress("http://localhost:5043");
         //using var channel = GrpcChannel.ForAddress("http://192.168.1.177:50051");   // virtualbox - ubuntu server address
-        using var channel = GrpcChannel.ForAddress("http://192.168.1.176:50051");  //  this project server
+        //using var channel = GrpcChannel.ForAddress("http://192.168.1.176:50051");  //  this project server
+        using var channel = GrpcChannel.ForAddress("http://localhost:50051");  //  this project server
 
 
        
